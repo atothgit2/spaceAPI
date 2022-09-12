@@ -1,0 +1,1 @@
+https://circleci.com/blog/api-testing-with-jest/
